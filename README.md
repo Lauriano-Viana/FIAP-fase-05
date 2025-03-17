@@ -56,6 +56,10 @@ O objetivo  e identificar outliers nos dados de produção agrícola e realizar 
 4. **Conclusão**:
    - Identificação de outliers e análise de tendências nos dados de produção agrícola.
 
+### Link notebook Jupyter:
+https://colab.research.google.com/drive/1otyuIoDfRwRE7B7dXflVRDKsQ1Gn8gPe?usp=sharing
+
+
 ### Link youtube:
 https://youtu.be/avImwD7Iq9o
 
